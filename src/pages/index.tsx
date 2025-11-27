@@ -4,7 +4,7 @@ export default function IndexPage() {
   return (
     <DefaultLayout>
       <h1 className="text-3xl font-bold underline">
-        Hello <span className="text-blue-700">World</span>
+        <span className="text-blue-700">Text</span> to <span className="text-blue-700">Speech</span>
       </h1>
     </DefaultLayout>
   );
